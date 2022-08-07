@@ -2,16 +2,16 @@
 
 ## Table of Contents
 * [Introduction](#Introduction)
-* [Data Issues](#Data_Issues)
+* [Data](#Data)
 * [Technologies](#Technologies)
 * [Dependencies](#Dependencies)
-* [Running The Project](#Running_The_Project)
+* [Running](#Running)
 
 ### Introduction
 
 This project calculates the qualifying offer amount for Major League Baseball players based on salary data from the 2016 season. The results are then shown through a GUI using [PyQt5](https://pypi.org/project/PyQt5/) along with other relevant information.
 
-### Data Issues
+### Data
 Throughout the construction of this project, I came across various issues and syntax cases in the provided data. Here is what I found in the 'salary' column of the data:
 
 1. Some values are missing commas <br>
@@ -28,7 +28,7 @@ Throughout the construction of this project, I came across various issues and sy
 * [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
 * [PyQt5](https://pypi.org/project/PyQt5/)
 
-### Running The Project
+### Running
 
 #### Run On Application
 1. Download latest version of this project
