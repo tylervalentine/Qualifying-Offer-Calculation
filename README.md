@@ -30,7 +30,14 @@ Throughout the construction of this project, I came across various issues and sy
 
 ### Running The Project
 
+#### Run On Application
 1. Download latest version of this project
 2. Double click the 'calculations' app to open project
 3. If the app has permissions issues, open a terminal and type:
     ```chmod -R 755 <path-to-application> ```, then right-click the app and press 'open'
+
+#### Run Locally
+1. Download latest version of this project
+2. Open source code in a Python IDE
+3. Download dependencies
+3. Run calculations.py
